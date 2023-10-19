@@ -185,3 +185,23 @@ Create two lists: one of ints and one of doubles. Use both a standard for loop a
 ```java
 /* Popcorn hacks go here! */
 ```
+
+## Hacks!
+
+Given an input of *N* integers, find *A*, the maximum, *B*, the minimum, and *C* the median.
+
+Print the following in this order:
+*A* + *B* + *C*
+*A* - *B* - *C*
+(*A* + *B*) * *C*
+
+Sample data:
+```
+I: 1 2 3 4 5
+O: 9 1 18
+
+I: 2 4 6 8 10 12 14 16
+O: 28 6 180
+```
+
+For extra, create your own fun program using an array
